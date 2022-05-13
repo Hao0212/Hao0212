@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hao0212
-- 👀 I’m interested in Data analysis and Computer Science
+- 👀 I’m interested in Data analysis 
 - 🌱 I’m currently learning Python and Java
 - 📫 How to reach me 240985032@qq.com
 
